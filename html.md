@@ -20,7 +20,7 @@ In addition to this, HTML elements use attributes to tell the browser additional
 
 ![[attributes#Attributes]]
 
-[Attributes](def/attributes.md) are made up of two parts, *a name* and a *value* separated by an equal sign. This is the syntax:
+[Attributes](attributes.md) are made up of two parts, *a name* and a *value* separated by an equal sign. This is the syntax:
 
 ```html
 <html lang="en"> 

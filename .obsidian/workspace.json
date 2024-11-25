@@ -11,32 +11,15 @@
             "id": "5469336666a8b0bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "html-structure.md",
-                "mode": "source",
-                "source": false
+                "file": "images/attribute-syntax.svg"
               },
-              "icon": "lucide-file",
-              "title": "html-structure"
-            }
-          },
-          {
-            "id": "3ef1efe6d9e526a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meta-iayp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "meta-iayp"
+              "icon": "lucide-image",
+              "title": "attribute-syntax"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "meta-iayp.md",
+                "file": "images/attribute-syntax.svg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,15 +114,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of meta-iayp"
+              "title": "Graph of attribute-syntax"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "3b0d0cf88f368eed",
@@ -168,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setting-up css.md"
+                "file": "images/attribute-syntax.svg"
               },
               "icon": "lucide-list",
-              "title": "Outline of setting-up css"
+              "title": "Outline of attribute-syntax"
             }
           },
           {
@@ -227,10 +209,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "meta-iayp.md"
+                "file": "images/attribute-syntax.svg"
               },
               "icon": "lucide-info",
-              "title": "File properties for meta-iayp"
+              "title": "File properties for attribute-syntax"
             }
           }
         ],
@@ -251,54 +233,18 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "floating": {
-    "id": "a8c10e8adcd0370a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3389cbc064b907a8",
-        "type": "window",
-        "children": [
-          {
-            "id": "3528b805a917b7a0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "63a956b7fa959430",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "excalidraw/html-meaning-drawing.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "html-meaning-drawing"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1017,
-        "y": 75,
-        "width": 886,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3ef1efe6d9e526a6",
+  "active": "6d01c32a10dddada",
   "lastOpenFiles": [
+    "excalidraw/html-meaning-drawing.md",
     "html-structure.md",
     "meta-iayp.md",
     "html-structure.md~",
     "html.md",
     "excalidraw/attribute-syntax.md",
-    "excalidraw/html-meaning-drawing.md",
     "images/attribute-syntax.svg",
     "images/html.svg",
     "structural markup.md",
@@ -306,7 +252,7 @@
     "exclalidraw/Drawing 2024-11-25 15.30.58.excalidraw.md",
     "exclalidraw",
     "Drawing 2024-11-25 15.30.07.excalidraw.md",
-    "def/attributes.md",
+    "attributes.md",
     "Untitled.md",
     "images",
     "excalidraw",
