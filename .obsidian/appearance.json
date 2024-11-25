@@ -1,0 +1,11 @@
+{
+  "showViewHeader": false,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Hack Nerd Font Propo",
+  "textFontFamily": "Hack Nerd Font Propo",
+  "enabledCssSnippets": [
+    "media-grid-snippet",
+    "img-grid"
+  ]
+}

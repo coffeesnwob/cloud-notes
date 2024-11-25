@@ -1,0 +1,7 @@
+- 2024-11-25 at 18h33 · [[html-structure]]
+- 2024-11-25 at 18h30 · [[meta-iayp]]
+- 2024-11-25 at 18h20 · [[html]]
+- 2024-11-25 at 17h59 · [[structural markup]]
+- 2024-11-25 at 17h57 · [[attributes]]
+- 2024-11-25 at 17h57 · [[attribute-syntax]]
+- 2024-11-25 at 15h52 · [[html-meaning-drawing]]
