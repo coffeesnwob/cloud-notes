@@ -7,11 +7,16 @@ To tell the browser which version of **HTML** the page is using, you must includ
 <!doctype html>
 ```
 
+## title
+
+- `<titile>`: the contents of the title element is shown either in the top of the browser or on the tab for that page.
+
 ## [[structural markup#body, head and title]],
 
 ## [[meta-iayp#Meta element]],
 
 ## [[structural markup#Headings]],
+
 
 ```html
 <!doctype html>
@@ -33,4 +38,3 @@ To tell the browser which version of **HTML** the page is using, you must includ
 
 - [[attributes]]
 - [[html]]
-

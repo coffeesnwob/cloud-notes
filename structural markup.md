@@ -1,15 +1,11 @@
 # Structural Markup
 
-> [!info] ChatGPT
-> Structural markup refers to the use of HTML tags to define the overall structure and layout of a webpage. Structural markup focuses more on the overall layout, rather than the meaning of individual content elements.
+Structural markup refers to the use of HTML tags to define the overall structure and layout of a webpage. Structural markup focuses more on the overall layout, rather than the meaning of individual content elements.
 
-These are elements you can use to describe both headings and paragraphs.
-
-## body, head and title
+## body and head
 
 - `<body>`: everything inside this element is shown inside the main browser.
 - `<head>`: this element comes before the head element but after the `<html>` element. This element hold information about your page.
-- `<titile>`: the contents of the title element is shown either in the top of the browser or on the tab for that page.
 
 ## Headings
 
@@ -35,6 +31,8 @@ The `<p>` element is used for paragraphs. If you surround your text with the ope
 ```
 
 ## Bold and Italic
+
+If you want to make your text appear **bold** you use the `<b>` element and also you might want to use `<i>` element to make text appear *italic*.
 
 ```html
 <p>This is how you make your text appear <b>bold</b></p>
@@ -62,7 +60,7 @@ The `<sub>` element is used to contain characters that should be subscript. It i
 </p>
 ```
 
-## Line breaks and horizonal rules
+## Line breaks and horizontal rules
 
 The `<br>` will add a line break inside the middle of the paragraph.
 
