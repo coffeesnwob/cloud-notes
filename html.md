@@ -27,8 +27,8 @@ In addition to this, HTML elements use attributes to tell the browser additional
 </html>
 ```
 
-- *name* → `lang` which stands for Language
-- *value* → `en` which stands for English
+- *name* → `lang` which stands for Language.
+- *value* → `en` which stands for English.
 
 ---
 
@@ -46,4 +46,4 @@ In addition to this, HTML elements use attributes to tell the browser additional
 
 [[meta-iayp]]
 
-[[block and inline-elements]]
+[[block and inline]]

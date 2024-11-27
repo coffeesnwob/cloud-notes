@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Address</title>
+    <link href="css/style.css" rel="stylesheet" />
+    <style type="text/css">
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #665544;
+      }
+
+      /* global style */
+      a {
+        text-decoration: none;
+      }
+
+      address {
+        max-width: 250px;
+        padding: 15px;
+        margin: 10px;
+        border: 1px solid #665544;
+        background-color: #f8f8f8;
+        text-transform: capitalize;
+      }
+
+      address p {
+        margin: 0px;
+      }
+      /* global style */
+
+      div.address {
+        max-width: 70%;
+        margin: 0px auto;
+        background-color: #f8f8f8;
+        overflow: hidden;
+      }
+
+      div.address-left,
+      div.address-right {
+        width: 50%;
+        margin: 0px auto;
+      }
+
+      div.address-left {
+        float: left;
+      }
+
+      div.address-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="address">
+      <div class="address-left">
+        <address>
+          <p><a href="mailto:homer@example.org">homer@example.org</a></p>
+          <p>742 evergreen terrance, springfiled</p>
+        </address>
+      </div>
+      <div class="address-right">
+        <address>
+          Contact us at: <br />
+          <a href="mailto:support@example.com">support@example.com</a><br />
+          Phone: +1 234 567 890<br />
+          Visit us at: 123 Main Street, Bulawayo, Zim
+        </address>
+      </div>
+    </div>
+  </body>
+</html>

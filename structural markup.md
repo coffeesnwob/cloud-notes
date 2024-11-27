@@ -5,9 +5,23 @@ Structural markup refers to the use of HTML tags to define the overall structure
 ## body and head
 
 - `<body>`: everything inside this element is shown inside the main browser.
-- `<head>`: this element comes before the head element but after the `<html>` element. This element hold information about your page.
+- `<head>`: this element comes before the `body` element but after the `<html>` element. This element hold information about your page.
 
-## Headings
+![[html-structure#title]]
+
+```html
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Title</title>
+  </head>
+  <body>
+    <h1>This is the body</h1>
+  </body>
+</html>
+```
+
+## headings
 
 HTML has six level headings starting from `h1` which is used for main headings, `h2` for sub-headings, `h3` for sub-subheadings and all the way to `h6`.
 
@@ -20,7 +34,7 @@ HTML has six level headings starting from `h1` which is used for main headings, 
 <h6>This is a level 6 heading</h6>
 ```
 
-## Paragraphs
+## paragraphs
 
 The `<p>` element is used for paragraphs. If you surround your text with the opening and closing `<p>` tag, the browser will know that this text that’s being surrounded by the `<p>` element is a paragraph. By default, the browser will show each paragraph on a new line.
 
@@ -30,16 +44,16 @@ The `<p>` element is used for paragraphs. If you surround your text with the ope
 </p>
 ```
 
-## Bold and Italic
+## bold and italic
 
-If you want to make your text appear **bold** you use the `<b>` element and also you might want to use `<i>` element to make text appear *italic*.
+If you want to make your text appear **bold** you use the `<b>` element and also you might want to use `<i>` element to make text appear _italic_.
 
 ```html
 <p>This is how you make your text appear <b>bold</b></p>
 <p>This is how you make your text appear <i>italic</i></p>
 ```
 
-## Superscript and Subscript
+## superscript and subscript
 
 The `<sup>` element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 2$^2$.
 
@@ -79,3 +93,9 @@ The `<hr />` element adds a horizontal rule between sections or elements.
 <hr />
 <p>To make potato chips, first wash your potatoes</p>
 ```
+
+---
+
+[[html]]
+[[html-structure]]
+[[attributes]]
