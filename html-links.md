@@ -76,4 +76,4 @@ The syntax:
 
 [[html]]
 [[attributes]]
-[[block and inline]]
+[[block and inline]]****

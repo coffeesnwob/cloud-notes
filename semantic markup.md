@@ -52,7 +52,7 @@ The `<q>` element is used for shorter quotes that sit within a paragraph.
 
 ## abbreviations and acronyms
 
-The `<abbr>` element is used for abbreviations and acronyms. This element uses an attribute called [title](def/attributes#^fff13b) to specify the full term.
+The `<abbr>` element is used for both abbreviations and acronyms. This element uses an attribute called [title](def/attributes#^fff13b) to specify the full term.
 
 ```html
 <p>

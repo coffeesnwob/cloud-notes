@@ -39,8 +39,11 @@ In addition to this, HTML elements use attributes to tell the browser additional
 [[semantic markup]]
 [[html-lists]]
 [[html-links]]
+[[html-tables]]
+[[html-forms]]
 
 [[html-image element]]
+[[figure-and-figcaption]]
 [[adding-videos]]
 [[adding-audios]]
 
