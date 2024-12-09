@@ -27,3 +27,15 @@ Attributes provide additional information about the contents of an element and t
 | rowspan | `"2"`, value is a number of row span                                                    | indicates how many rows a cell should span down the table.                                                                                                                                           |
 
 ^fff13b
+
+---
+
+[[html]]
+[[html-forms]]
+[[html-image element]]
+[[html-links]]
+[[html-structure]]
+[[html-tables]]
+[[linking the same page]]
+[[semantic markup]]
+[[structural markup]]
