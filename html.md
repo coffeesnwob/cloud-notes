@@ -16,7 +16,7 @@ Each Element tells the browser what kind of information sits between an opening 
 1. `<html>` tag tells the browser that anything between it and the closing `</html>` tag is **HTML** code.
 2. `<p>` tag tells the browser that text sitting in-between the opening `<p>` and the closing `</p>` tag is a paragraph.
 
-In addition to this, HTML elements use attributes to tell the browser additional information about them.
+HTML elements use attributes to tell the browser additional information about them.
 
 ![[attributes#Attributes]]
 

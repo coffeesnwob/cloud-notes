@@ -5,19 +5,19 @@ Structural markup refers to the use of HTML tags to define the overall structure
 ## body and head
 
 - `<body>`: everything inside this element is shown inside the main browser.
-- `<head>`: this element comes before the `body` element but after the `<html>` element. This element hold information about your page.
-
-![[html-structure#title]]
+- `<head>`: this element comes before the `body` element but after the `<html>` element. This element hold information about your page. Inside this element, that’s where the [[meta-iayp]] element sits which provides additional information about your page.
+  ![[html-structure#title]]
 
 ```html
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Title</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="ladyvim" />
+    <title>Structural Markup</title>
   </head>
-  <body>
-    <h1>This is the body</h1>
-  </body>
+  <body></body>
 </html>
 ```
 
@@ -36,7 +36,7 @@ HTML has six level headings starting from `h1` which is used for main headings, 
 
 ## paragraphs
 
-The `<p>` element is used for paragraphs. If you surround your text with the opening and closing `<p>` tag, the browser will know that this text that’s being surrounded by the `<p>` element is a paragraph. By default, the browser will show each paragraph on a new line.
+The `<p>` element is used for paragraphs. If you surround your text with the `<p>` element, the browser will know that this text that’s being surrounded by the `<p>` element is a paragraph. By default, the browser will show each paragraph on a new line.
 
 ```html
 <p>

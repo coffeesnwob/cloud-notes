@@ -4,7 +4,7 @@ A table represents information in a grid format. When dealing with tables, you n
 
 ## Basic table structure
 
-The `<table>` element is used to create tables. You indicate the start of each row using the `<tr>` element and it is followed by the `<td>` element. The `<td>` element stands for table row.
+The `<table>` element is used to create tables. You indicate the start of each row using the `<tr>` element and it is followed by the `<td>` element. The `<td>` element stands for table data.
 
 ```html
 <table>

@@ -52,7 +52,7 @@ The `<q>` element is used for shorter quotes that sit within a paragraph.
 
 ## abbreviations and acronyms
 
-The `<abbr>` element is used for both abbreviations and acronyms. This element uses an attribute called [title](def/attributes#^fff13b) to specify the full term.
+The `<abbr>` element is used for both abbreviations and acronyms and it uses an attribute called [title](def/attributes#^fff13b) to specify the full term.
 
 ```html
 <p>
@@ -74,6 +74,8 @@ When you are referencing a piece of work such as a book, film or research paper,
   million copies worldwide
 </p>
 ```
+
+> [!question] Does the `<cite>` element have attributes and how to properly use it and in which scenarios? #question
 
 The `<dfn>` element is used to define a new term. The browser will also render the contents of this element in _italics_.
 
