@@ -30,7 +30,7 @@ Forms can be sent using:
 	- contains sensitive data (such as passwords)
 	- adds information to, or deletes information from a database.
 
->[!info] If the methos attribute is not used, the form data will be sent using the get method.
+>[!info] If the method attribute is not used, the form data will be sent using the get method.
 
 The syntax:
 

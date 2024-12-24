@@ -4,7 +4,9 @@ Semantic Markup provides extra information, and meaning or purpose of the conten
 
 ## strong and emphasis
 
-If you want to make text appear or indicate that it is important you use the `<strong>` element. By default, the text will appear bold.
+If you want to make text appear or indicate that it is important you use the `<strong>` element. By default, the text will appear bold. 
+
+These elements help people using screen readers #research
 
 ```html
 <p>
@@ -13,7 +15,7 @@ If you want to make text appear or indicate that it is important you use the `<s
 </p>
 ```
 
-The `<em>` element indicates emphasis that *subtly* changes the meaning of the sentence and by default, text will appear italic.
+The `<em>` element indicates emphasis that *subtly* changes the meaning of the sentence and by default, text will appear *italic*.
 
 ```html
 <p>
@@ -23,7 +25,7 @@ The `<em>` element indicates emphasis that *subtly* changes the meaning of the s
 
 ## quotations
 
-You use the `<blockquote>` element for larger quotes that take up an entire paragraph. Browsers tend to indent the contents of the `<blockquote>` element. `<blockquote>` also uses the [cite attribute](attributes#^fff13b) to provide the source of the quoted content.
+There are two types of element that are used for quotes. The first one is the `<blockquote>` element which is used for larger quotes that take up an entire paragraph and browsers tend to indent the contents of the `<blockquote>` element. `<blockquote>` also uses the [cite attribute](attributes#^fff13b) to provide the source of the quoted content.
 
 >[!danger]- Important
 >- Don’t use this element just to indent text in your webpage.
@@ -38,7 +40,7 @@ You use the `<blockquote>` element for larger quotes that take up an entire para
 </blockquote>
 ```
 
-The `<q>` element is used for shorter quotes that sit within a paragraph.
+The second one is the `<q>` element and it is used for shorter quotes that sit within a paragraph (the `<p>` element).
 
 ```html
 <p>
@@ -74,8 +76,6 @@ When you are referencing a piece of work such as a book, film or research paper,
   million copies worldwide
 </p>
 ```
-
-> [!question] Does the `<cite>` element have attributes and how to properly use it and in which scenarios? #question
 
 The `<dfn>` element is used to define a new term. The browser will also render the contents of this element in _italics_.
 

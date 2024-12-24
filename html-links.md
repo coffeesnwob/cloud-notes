@@ -57,7 +57,7 @@ To create a link that starts up the user’s email program and addresses an emai
 The syntax:
 
 ```html
-<a href="emailto:support@callus.org">Email Support</a>
+<a href="mailto:support@callus.org">Email Support</a>
 ```
 
 ## opening links in a new window

@@ -9,7 +9,7 @@ To tell the browser which version of **HTML** the page is using, you must includ
 
 ## title
 
-- `<titile>`: the contents of the title element is shown either in the top of the browser or on the tab for that page.
+The contents of the `<title>` element is shown either in the top of the browser or on the tab for that page.
 
 ```html
 <!doctype html>
