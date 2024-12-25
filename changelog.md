@@ -1,3 +1,4 @@
+- 2024-12-25 at 09h08 · [[gitignore]]
 - 2024-12-21 at 15h53 · [[form-control]]
 - 2024-12-21 at 15h36 · [[html-forms]]
 - 2024-12-21 at 12h43 · [[block and inline]]
@@ -17,4 +18,3 @@
 - 2024-11-27 at 23h52 · [[directory structure]]
 - 2024-11-27 at 19h34 · [[linking the same page]]
 - 2024-11-27 at 17h59 · [[attribute-syntax]]
-- 2024-11-26 at 18h30 · [[html-lists]]
